@@ -1,6 +1,6 @@
-# Student Account Management Test Plan
+# Account Management Test Plan
 
-This test plan describes the current behavior of the COBOL student account management application. It is intended for business stakeholder review and can later be converted into unit and integration tests for the Node.js implementation.
+This test plan describes the current behavior of the COBOL account management application. It is intended for business stakeholder review and can later be converted into unit and integration tests for the Node.js implementation.
 
 ## Scope and test notes
 
